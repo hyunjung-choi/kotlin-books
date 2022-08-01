@@ -1,2 +1,6 @@
-# Kotlin-book-study
-💜**Kotlin IN ACTION** 부터 **이펙티브 코틀린**까지 같이 읽을 사람 구함
+# 📖 Kotlin Books
+
+ - Kotlin과 관련된 서적들을 읽고 정리합니다.
+ - Read and organize books about Kotlin.
+
+## Kotlin IN ACTION🏃‍♂️🏃 (~ing)
