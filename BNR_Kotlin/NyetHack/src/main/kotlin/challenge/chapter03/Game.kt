@@ -37,4 +37,10 @@ fun main(args: Array<String>) {
     println("(Aura: ${auraColor}) " +
             "(Blessed: ${if (isBlessed) "YES" else "NO"})")
     println("${name} ${healthStatus}")
+
+    // 챌린지: 구성 가능한 형식의 상태 출력
+    val HP = "HP: ${healthPoints}"
+    val A = "Aura: ${auraColor}"
+    val H = "${name} ${healthStatus}"
+    println("(${HP})(${A}) -> ${H}")
 }
