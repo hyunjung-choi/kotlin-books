@@ -95,8 +95,8 @@
  
  ### CHAPTER 9. 표준함수
 
- - [ ] apply
- - [ ] let
+ - [X] apply
+ - [X] let
  - [ ] run
  - [ ] with
  - [ ] also
