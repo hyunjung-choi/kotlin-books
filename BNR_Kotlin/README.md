@@ -97,11 +97,11 @@
 
  - [X] apply
  - [X] let
- - [ ] run
- - [ ] with
- - [ ] also
- - [ ] takeIf
- - [ ] 표준 라이브러리 함수 사용하기
+ - [X] run
+ - [X] with
+ - [X] also
+ - [X] takeIf
+ - [X] 표준 라이브러리 함수 사용하기
  
  ### CHAPTER 10. List와 Set
 
