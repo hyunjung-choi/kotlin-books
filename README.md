@@ -5,6 +5,33 @@
  `Kotlin`과 관련된 서적들을 읽고 정리합니다.</br>
  Read and organize books about `Kotlin`.
 
-<a href="https://github.com/hyunjung-choi/kotlin-books/tree/main/BNR_Kotlin"><img src="https://camo.githubusercontent.com/e93e1178b1de6d93941d582a5a178d9327361aa28d7a7ab2eaa889568513aa17/687474703a2f2f696d6167652e79657332342e636f6d2f676f6f64732f37303936383431332f584c" width="300px"/></a> <a href="https://github.com/hyunjung-choi/kotlin-books/tree/main/Kotlin%20IN%20ACTION"><img src="https://user-images.githubusercontent.com/69616347/182115183-68c7b244-7d65-4356-8a61-eec2f0489055.png" width="300px"/></a>
-
+ <table>
+    <tr height="170px">
+        <td align="center" width="170px">
+            <img height="150px" width="120px" src="https://github.com/hyunjung-choi/kotlin-books/assets/69616347/8447a6ae-9771-4fb0-a5e9-287dd4b450ed"/>
+            <br />
+        </td>
+        <td align="center" width="170px">
+            <img height="150px" width="120px" src="https://github.com/hyunjung-choi/kotlin-books/assets/69616347/63f8c1bd-b401-4366-b897-bdfaac6f4038"/>
+            <br />
+        </td>
+        <td align="center" width="170px">
+            <img height="150px" width="120px" src="https://github.com/hyunjung-choi/kotlin-books/assets/69616347/15ad545d-d292-4d7c-a71f-89b7856decb8"/>
+            <br />
+        </td>
+    </tr>
+    <tr height="50px">
+        <td align="center">
+            <a href="https://www.yes24.com/Product/Goods/70968413">빅 너드 랜치의</br>코틀린 프로그래밍</a>
+            <br />
+        </td>
+        <td align="center">
+            <a href="https://www.yes24.com/Product/Goods/55148593">Kotlin IN ACTION</a>
+            <br />
+        <td align="center">
+            <a href="https://www.yes24.com/Product/Goods/125014350">코틀린 코루틴의</br>정석</a>
+            <br />
+        </td>
+    </tr>
+</table>
 </div>
