@@ -22,14 +22,14 @@
     </tr>
     <tr height="50px">
         <td align="center">
-            <a href="https://www.yes24.com/Product/Goods/70968413">빅 너드 랜치의</br>코틀린 프로그래밍</a>
+            <a href="https://github.com/hyunjung-choi/kotlin-books/tree/main/BNR_Kotlin">빅 너드 랜치의</br>코틀린 프로그래밍</a>
             <br />
         </td>
         <td align="center">
-            <a href="https://www.yes24.com/Product/Goods/55148593">Kotlin IN ACTION</a>
+            <a href="https://github.com/hyunjung-choi/kotlin-books/tree/main/Kotlin%20IN%20ACTION">Kotlin IN ACTION</a>
             <br />
         <td align="center">
-            <a href="https://www.yes24.com/Product/Goods/125014350">코틀린 코루틴의</br>정석</a>
+            <a href="https://github.com/hyunjung-choi/kotlin-books/tree/main/CoroutinesBook">코틀린 코루틴의</br>정석</a>
             <br />
         </td>
     </tr>
