@@ -12,7 +12,7 @@
             <br />
         </td>
         <td align="center" width="170px">
-            <img height="150px" width="120px" src="https://github.com/hyunjung-choi/kotlin-books/assets/69616347/63f8c1bd-b401-4366-b897-bdfaac6f4038"/>
+            <img height="150px" width="120px" src="https://github.com/user-attachments/assets/1c1a33c1-b45c-4362-8a66-144c9a421167"/>
             <br />
         </td>
         <td align="center" width="170px">
